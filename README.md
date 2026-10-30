@@ -12,14 +12,11 @@
 
 <!-- ACTION PILLS & STATUS -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/anupam41">
+    <img src="https://img.shields.io/github/followers/anupam41?label=Follow%20%40anupam41&style=for-the-badge&logo=github&color=7F52FF&labelColor=0D1117" alt="GitHub Followers" />
   </a>
   <img src="https://img.shields.io/badge/Location-Howrah%2C_IN-161B22?style=for-the-badge&logo=googlemaps&logoColor=A371F7&labelColor=0D1117" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7F52FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anupam41&label=Profile%20Views&color=7F52FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -62,7 +59,7 @@
 | **Mobile & UI** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=black) ![Material 3](https://img.shields.io/badge/Material_3_Expressive-757575?style=flat-square&logo=materialdesign&logoColor=white) |
 | **CAD & Industrial** | ![AutoLISP](https://img.shields.io/badge/AutoLISP-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD_Automation-E51010?style=flat-square&logo=autodesk&logoColor=white) ![QA Systems](https://img.shields.io/badge/BOM_%26_QA_Systems-00C853?style=flat-square&logo=databricks&logoColor=white) ![3D Vis](https://img.shields.io/badge/3D_Engineering_Vis-FF6F00?style=flat-square&logo=blender&logoColor=white) |
 | **Web & Tooling** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5/CSS3](https://img.shields.io/badge/Modern_Web-E34F26?style=flat-square&logo=html5&logoColor=white) ![AI Workflows](https://img.shields.io/badge/Generative_AI_Pipelines-8E75B2?style=flat-square&logo=google&logoColor=white) |
-| **DevOps & Mesh** | ![Tailscale](https://img.shields.io/badge/Tailscale_VPN_Mesh-24292E?style=flat-square&logo=tailscale&logoColor=white) ![NAS](https://img.shields.io/badge/Private_NAS_Cloud-00599C?style=flat-square&logo=western-digital&logoColor=white) ![Git](https://img.shields.io/badge/Git_Actions-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **DevOps & ROMs** | ![Tailscale](https://img.shields.io/badge/Tailscale_VPN_Mesh-24292E?style=flat-square&logo=tailscale&logoColor=white) ![NAS](https://img.shields.io/badge/Private_NAS_Cloud-00599C?style=flat-square&logo=western-digital&logoColor=white) ![Git](https://img.shields.io/badge/Git_Actions-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel_%26_Trees-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
@@ -89,7 +86,7 @@
         </ul>
       </details>
       <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/anupam41?tab=repositories">
         <img src="https://img.shields.io/badge/Explore_Source_Code_%E2%86%92-161B22?style=for-the-badge&logo=github&labelColor=0D1117&color=7F52FF" />
       </a>
     </td>
@@ -110,7 +107,7 @@
         </ul>
       </details>
       <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/anupam41?tab=repositories">
         <img src="https://img.shields.io/badge/Inspect_LISP_Scripts_%E2%86%92-161B22?style=for-the-badge&logo=github&labelColor=0D1117&color=0696D7" />
       </a>
     </td>
@@ -133,7 +130,7 @@
         </ul>
       </details>
       <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/anupam41?tab=repositories">
         <img src="https://img.shields.io/badge/View_System_Specs_%E2%86%92-161B22?style=for-the-badge&logo=github&labelColor=0D1117&color=00C853" />
       </a>
     </td>
@@ -154,7 +151,7 @@
         </ul>
       </details>
       <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/anupam41?tab=repositories">
         <img src="https://img.shields.io/badge/Read_Architecture_%E2%86%92-161B22?style=for-the-badge&logo=github&labelColor=0D1117&color=FF5252" />
       </a>
     </td>
@@ -166,23 +163,23 @@
 ### 📊 Telemetry & Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A371F7&line=7F52FF&point=3DDC84&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam41&hide_border=true&background=0D1117&ring=7F52FF&fire=3DDC84&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" width="98%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=3DDC84&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7F52FF&fire=3DDC84&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anupam41&theme=github_dark" width="98%" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="98%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupam41&theme=github_dark" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupam41&theme=github_dark" width="48%" alt="GitHub Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <sub><b>Engineered by Anupam Samanta</b> • Where Mechanical Precision Meets Modern Code</sub>
+  <sub><b>Engineered by Anupam Samanta (@anupam41)</b> • Where Mechanical Precision Meets Modern Code</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:3b1d60&height=90&section=footer" width="100%" alt="Footer" />
 </div>
